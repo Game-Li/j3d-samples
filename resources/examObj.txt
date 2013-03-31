@@ -1,0 +1,7 @@
+Group: class javax.media.j3d.BranchGroup
+1 children
+  Leaf: class javax.media.j3d.Shape3D
+  javax.media.j3d.Material: AmbientColor=(0.3, 0.1, 0.1) EmissiveColor=(0.0, 0.0, 0.0) DiffuseColor=(0.6, 0.6, 0.6) SpecularColor=(0.0, 0.0, 1.0) Shininess=0.8 LightingEnable=true ColorTarget=2
+    Geometry: class javax.media.j3d.TriangleArray
+    Vertex count: 1656
+  
